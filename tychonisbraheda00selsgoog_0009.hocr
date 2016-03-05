@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tychonisbraheda00selsgoog_0009.png"; bbox 0 0 4212 5558; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 566 2371 1415 2692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 566 2371 1415 2692">
+     <span class='ocr_line' id='line_1_1' title="bbox 566 2371 1415 2470; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 566 2371 933 2470; x_wconf 85' lang='lat' dir='ltr'>TYCHONIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 964 2373 1207 2468; x_wconf 85' lang='lat' dir='ltr'>BRAHE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1239 2373 1415 2468; x_wconf 85' lang='lat' dir='ltr'>DANI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 686 2594 1303 2692; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 686 2594 782 2690; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 813 2595 1003 2691; x_wconf 84' lang='lat' dir='ltr'>NOVA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1030 2595 1303 2692; x_wconf 84' lang='lat' dir='ltr'>STELLA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2110 5558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2110 5558">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2110 5558; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2110 5558; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

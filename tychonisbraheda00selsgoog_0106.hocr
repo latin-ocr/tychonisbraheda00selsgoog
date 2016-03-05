@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tychonisbraheda00selsgoog_0106.png"; bbox 0 0 4218 5560; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 596 735 1601 966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 596 735 1601 966">
+     <span class='ocr_line' id='line_1_1' title="bbox 667 873 1521 966; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1338 884 1521 966; x_wconf 69' lang='grc' dir='ltr'>ΞΞ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1080 873 1298 953; x_wconf 47' lang='lat' dir='ltr'>{za</span> <span class='ocrx_word' id='word_1_3' title='bbox 959 877 1041 950; x_wconf 62' lang='grc' dir='ltr'>Ξ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 667 873 921 949; x_wconf 62' lang='grc' dir='ltr'>ΞΞΞ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 596 735 1601 868; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 1466 751 1601 848; x_wconf 67' lang='grc' dir='ltr'>,ἒ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1127 741 1428 868; x_wconf 52' lang='grc' dir='ltr'>Ξῖ</span> <span class='ocrx_word' id='word_1_7' title='bbox 596 735 1093 836; x_wconf 55' lang='grc' dir='ltr'>ΞΞΞΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2114 5556">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2114 5556">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2114 5556; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2114 5556; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
